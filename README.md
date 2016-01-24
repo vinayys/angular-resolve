@@ -1,7 +1,7 @@
 angular-resolve
 ===============
 
-this was edited by vinay
+this was edited by vinayys
 
 A simple AngularJS project demonstrating routing and resolving. Video coming soon.
 
